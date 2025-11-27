@@ -13,19 +13,6 @@ body{
 }
 
 
-main{
-    background-color: white;
-    width: 500px;
-    margin: auto;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.453);
-
-}
-
-
-.imgtec{
-    float: right;
-}
-
 div, main{
     margin-top:50px;
     background: white;
@@ -36,6 +23,13 @@ div, main{
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
 
 }
+
+
+.imgtec{
+    float: right;
+}
+
+
 
 h1{
     text-align: center;
