@@ -22,13 +22,29 @@ main{
 }
 
 
-div{
+.imgtec{
+    float: right;
+}
+
+div, main{
+    margin-top:50px;
     background: white;
     padding: 20px 40px;
-    width: 500px;
+    height: 600px;
+    width: 600px;
     border-radius: 10px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 
-    text-align:center;
-    max-width: 400px;
 }
+
+h1{
+    text-align: center;
+}
+
+
+
+.cursovideologo, .jsvideo, .htmlvideo, .btn-back{
+    display:block;
+    margin:0 auto;
+}
+
